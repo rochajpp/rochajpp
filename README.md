@@ -1,5 +1,5 @@
-### Eaee, meu nome é João Paulo! 
-
+### Eaee, eu sou o João Paulo! 😁👋
+##
 - 🌱 Estou atualmente me aprofundando em JavaScript
 - 👯 Tenho o objeivo de me tornar um desenvolvedor FullStack
 ##
@@ -12,20 +12,29 @@
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   </div>
- </a>
+</a>
+
+<br>
+
+<a href="https://github.com/rochajpp">
   <div>
     <img height="180px" src="https://github-readme-stats.vercel.app/api?username=rochajpp&show_icons=true&theme=tokyonight"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochajpp&layout=compact&theme=tokyonight"/>
   </div>
+</a>
 
 <br>
 
 <div>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-medeiros-rocha-75445820b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:joao.rochap03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
   
+</div>
 
+<br>
 
- 
+<div>
+  ![Snake animation](https://github.com/rochajpp/rochajpp/blob/output/github-contribution-grid-snake.svg)
+  <img height="200px" width="250px" align="right" src="https://user-images.githubusercontent.com/110742745/185760798-a3f2e671-4012-4cdb-a7a9-1886737fb4ee.gif">
+</div>
 
