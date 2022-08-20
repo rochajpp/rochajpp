@@ -28,11 +28,11 @@
 <div>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-medeiros-rocha-75445820b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:joao.rochap03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  
 </div>
 
 <br>
 
-![Snake animation](https://github.com/rochajpp/rochajpp/blob/output/github-contribution-grid-snake.svg)
-  
+<div>
+  <img align="center" src="https://github.com/rochajpp/rochajpp/blob/output/github-contribution-grid-snake.svg">
+</div
 
