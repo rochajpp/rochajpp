@@ -1,23 +1,31 @@
 ### Eaee, meu nome é João Paulo! 
 
-- 🌱 Estou atualmente me aprofundando em HTML, CSS E JavaScript
+- 🌱 Estou atualmente me aprofundando em JavaScript
 - 👯 Tenho o objeivo de me tornar um desenvolvedor FullStack
 ##
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<a href="https://github.com/rochajpp">
+  <div>
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  </div>
+ </a>
+  <div>
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=rochajpp&show_icons=true&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochajpp&layout=compact&theme=tokyonight"/>
+  </div>
+
+<br>
+
 <div>
-  <a href="https://github.com/rochajpp">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=rochajpp&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochajpp&layout=compact&theme=tokyonight"/>
- 
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-medeiros-rocha-75445820b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:joao.rochap03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
   
-<div>
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-</div>
+
 
  
 
