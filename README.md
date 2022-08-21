@@ -1,5 +1,5 @@
 ### Eaee, eu sou o João Paulo! 😁👋
-##
+
 - 🌱 Estou atualmente me aprofundando em JavaScript
 - 👯 Tenho o objeivo de me tornar um desenvolvedor FullStack
 ##
