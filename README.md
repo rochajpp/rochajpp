@@ -1,7 +1,5 @@
-### Eaee, eu sou o João Paulo! 😁👋
-
-- 🌱 Estou atualmente me aprofundando em Blazor e C#
-- 👯 Tenho o objeivo de me tornar um desenvolvedor FullStack
+### João Paulo • Desenvolvedor FullStack
+- 🌱 Atualmente me aprofundando em Blazor e C#
 ##
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <a href="https://github.com/rochajpp">
@@ -33,9 +31,3 @@
   <a href="mailto:joao.rochap03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://rochajpp.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-brown?style=for-the-badge&logo=true" target="_blank"></a>
 </div>
-
-<br>
-
-<div>
-  <img align="center" src="https://github.com/rochajpp/rochajpp/blob/output/github-contribution-grid-snake.svg">
-</div
