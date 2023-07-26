@@ -1,33 +1,29 @@
+### Eaee, eu sou o João Paulo! 😁👋
 
-<h1>💻 João Paulo • Desenvolvedor FullStack</h1>
-<div>
-  <a href="https://github.com/rochajpp">
+- 🌱 Estou atualmente me aprofundando em Blazor e C#
+- 👯 Tenho o objeivo de me tornar um desenvolvedor FullStack
+##
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<a href="https://github.com/rochajpp">
+  <div>
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />   
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />  
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />     
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  </a>
-</div>
-
-## 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
-<div>
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=rochajpp&repo=ApiNasa"/>
-    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=rochajpp&repo=appleClone"/>
-</div>
-<br>
+    
+  </div>
+</a>
 
 <br>
 
-<div>
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochajpp&layout=compact&theme=tokyonight"/>
-</div>
+<a href="https://github.com/rochajpp">
+  <div>
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=rochajpp&show_icons=true&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochajpp&layout=compact&theme=tokyonight"/>
+  </div>
 </a>
 
 <br>
@@ -40,3 +36,6 @@
 
 <br>
 
+<div>
+  <img align="center" src="https://github.com/rochajpp/rochajpp/blob/output/github-contribution-grid-snake.svg">
+</div
