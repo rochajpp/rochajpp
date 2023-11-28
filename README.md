@@ -32,3 +32,7 @@
   <a href="mailto:joao.rochap03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://joaopaulorocha.com/" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-brown?style=for-the-badge&logo=true" target="_blank"></a>
 </div>
+
+<div>
+  ![Snake animation](https://github.com/rochajpp/rochajpp/blob/output/github-contribution-grid-snake.svg) 
+</div>
