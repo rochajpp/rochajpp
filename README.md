@@ -1,5 +1,5 @@
 ### 💻 João Paulo • Desenvolvedor FullStack
-- 🌱 Atualmente me aprofundando em ASP.NET Core
+- 🌱 Atualmente estou estudando Flutter
 ##
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <a href="https://github.com/rochajpp">
