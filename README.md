@@ -1,5 +1,5 @@
 ### 💻 João Paulo • Desenvolvedor FullStack
-- 🌱 Atualmente estou me aprofundando em Blazor
+- 🌱 Atualmente desenvolvendo em Blazor
 ##
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
