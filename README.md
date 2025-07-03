@@ -1,5 +1,5 @@
-### 💻 João Paulo • Desenvolvedor FullStack
-- 🌱 Atualmente desenvolvendo em Blazor e Node.js
+### 💻 João Paulo Rocha • Desenvolvedor FullStack
+> Desenvolvendo soluções inovadoras com paixão e precisão para impactar positivamente o mundo digital
 ##
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
