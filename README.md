@@ -1,40 +1,42 @@
 ### 💻 João Paulo Rocha • Desenvolvedor FullStack
 > Desenvolvendo soluções inovadoras com paixão e precisão para impactar positivamente o mundo digital
-##
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
-<a href="https://github.com/rochajpp">
-  <div>    
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />         
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"/>   
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" /> 
-    <img width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" />
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />      
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />               
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original-wordmark.svg" />
-  </div>
-</a>
 
-<br>
 
-<a href="https://github.com/rochajpp">
-  <div>
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=rochajpp&show_icons=true&theme=tokyonight"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochajpp&layout=compact&theme=tokyonight"/>
-  </div>
-</a>
+## 🛠️ Tech Stack
 
-<br>
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![.Net](https://img.shields.io/badge/.net-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
+![Blazor](https://img.shields.io/badge/blazor-%23512BD4.svg?style=for-the-badge&logo=blazor&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Sequelize](https://img.shields.io/badge/sequelize-%2352B0E7.svg?style=for-the-badge&logo=sequelize&logoColor=white)
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
 
 ![snake_gif](https://github.com/rochajpp/rochajpp/blob/output/github-snake-dark.svg)
 
-<br />
+---
 
-<div>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-medeiros-rocha-75445820b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:joao.rochap03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://joaopaulorocha.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-brown?style=for-the-badge&logo=true" target="_blank"></a>
-</div>
+## 🌐 Contacts
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-paulo-medeiros-rocha-75445820b/)
+[![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao.rochap03@gmail.com)
+[![Portfolio](https://img.shields.io/badge/portfolio-1e293b?style=for-the-badge&logo=google-chrome&logoColor=38bdf8)](https://joaopaulorocha.netlify.app)
