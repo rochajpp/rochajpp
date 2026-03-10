@@ -1,4 +1,4 @@
-### 💻 João Paulo Rocha • Desenvolvedor FullStack
+# 💻 João Paulo Rocha • Desenvolvedor FullStack
 > Desenvolvendo soluções inovadoras com paixão e precisão para impactar positivamente o mundo digital
 
 ## 🌐 Contacts
