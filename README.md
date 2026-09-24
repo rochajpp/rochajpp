@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-paulo-medeiros-rocha-75445820b/)
 [![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao.rochap03@gmail.com)
-[![Portfolio](https://img.shields.io/badge/portfolio-1e293b?style=for-the-badge&logo=google-chrome&logoColor=38bdf8)](https://joaopaulorocha.netlify.app)
+[![Portfolio](https://img.shields.io/badge/portfolio-1e293b?style=for-the-badge&logo=google-chrome&logoColor=38bdf8)](https://joaopaulorocha.com)
 
 ---
 
